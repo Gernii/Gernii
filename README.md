@@ -12,7 +12,7 @@ Hi, I'm Gernii (Le Ngo Duc Anh)!
 </p>
 <hr/>
 
-### <img src="./images/stats.gif" width="30px"> ***About Me***
+### ***🙋‍♀️ About Me***
 
 * 🌱 I'm learning ***Javascript*** and ***Angular*** 😍
 * 😄 Fun fact: I am always trying to learn new things. Even i don't use it yet
