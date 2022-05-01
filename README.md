@@ -14,7 +14,7 @@ Hi, I'm Gernii (Le Ngo Duc Anh)!
 
 ### ***🙋‍♀️ About Me***
 
-* 🌱 I'm learning ***Javascript*** and ***Angular*** 😍
+* 🌱 I'm learning ***React Native*** and ***Flutter*** 😍
 * 😄 Fun fact: I am always trying to learn new things. Even i don't use it yet
 
 ## 🔥 Streak Stats
